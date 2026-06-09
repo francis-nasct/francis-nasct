@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/27/49/ed/2749ed4eb2570fc5ea9f56fdc1f4f4ed.jpg" width="400px" alt="black phanter" />
+  <img src="https://i.pinimg.com/736x/27/49/ed/2749ed4eb2570fc5ea9f56fdc1f4f4ed.jpg" width="200px" alt="black phanter" />
 </p>
 
 ---
