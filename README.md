@@ -39,6 +39,6 @@
 
 <p align="center">
   <img width="41%" alt="html" src="https://github.com/user-attachments/assets/c7d2df66-9c56-44f1-8517-04484570ef42" />
-  <img width="41%" height="512" alt="css" src="https://github.com/user-attachments/assets/6e1f44f4-2f95-4900-b917-b3b831069c5b" />
+  <img width="41%" alt="css" src="https://github.com/user-attachments/assets/6e1f44f4-2f95-4900-b917-b3b831069c5b" />
   <img width="41%" alt="image" src="https://github.com/user-attachments/assets/d6ce5a84-e199-456d-bfe3-64fcd790d399" />
 </p>
