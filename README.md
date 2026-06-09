@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+  <img src="https://i.pinimg.com/736x/27/49/ed/2749ed4eb2570fc5ea9f56fdc1f4f4ed.jpg" width="400px" alt="black phanter" />
 </p>
 
 ---
