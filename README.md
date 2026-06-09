@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Pode me chamar de Francis! 👋</h1>
 
-<!--
-**francis-nasct/francis-nasct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>HTML • CSS • JavaScript</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  Entrei no universo da programação sem saber absolutamente nada e todo dia descubro algo novo. Aqui você encontrará um pouquinho do que venho aprendendo.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francivaldo-nascimento-dos-reis">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="francivaldonascimentodosreis@gmail.com">
+    <img src="https://img.shields.io/badge/-francivaldonascimentodosreis@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- ✨ Desenvolvedor Front-End
+- 🎓 Estudo online e de maneira autodidata
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="512" height="512" alt="html" src="https://github.com/user-attachments/assets/c7d2df66-9c56-44f1-8517-04484570ef42" />
+  <img width="512" height="512" alt="css" src="https://github.com/user-attachments/assets/6e1f44f4-2f95-4900-b917-b3b831069c5b" />
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d6ce5a84-e199-456d-bfe3-64fcd790d399" />
+</p>
